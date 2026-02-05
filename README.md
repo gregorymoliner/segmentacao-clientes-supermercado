@@ -33,11 +33,13 @@ O repositório está estruturado da seguinte forma:
 * Na pasta `imagens` estão os gráficos utilizados no projeto.
 * Na pasta `modelos` estão os modelos gerados durante o projeto.
 * Na pasta `notebooks` estão os notebooks com o desenvolvimento do projeto. Em detalhes, temos:
+  
      -  [Describe](notebooks/01-gm-describe.ipynb) - Descrição da base, verificando as informações das colunas, valores nulos e entre outros procedimentos. 
      -  [EDA](notebooks/02-gm-eda.ipynb) - Análise exploratória dos dados usando a bibloteca [ydata-profiling](https://github.com/ydataai/ydata-profiling).
      -  [Clustering](notebooks/03-gm-clustering.ipynb) - Clusterização dos dados usando K-Means com pré-processamento utilizando pipelines do Scikit-Learn.
      -  [Pipeline_Pca](notebooks/04-gm-pipeline_pca.ipynb) - Clusterização dos dados usando K-Means após redução de dimensionalidade com PCA utilizando pipelines do Scikit-Learn.
      -  [funcoes_auxiliares](notebooks/funcoes_auxiliares.py) - Arquivo com funções auxiliares utilizadas nos notebooks.
+
 * Na pasta `reports` estão os relatórios gerados durante o projeto utilizando a bibloteca [ydata-profiling](https://github.com/ydataai/ydata-profiling).
 
 ## Detalhes do dataset utilizado e resumo dos resultados
