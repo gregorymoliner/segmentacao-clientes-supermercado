@@ -85,4 +85,4 @@ O projeto foi desenvolvido utilizando o Python 3.13.5 Para reproduzir o projeto,
 <p align="center">
   <a href="https://www.linkedin.com/in/gregory-moliner-a65baa13a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>p>
+  </a>
